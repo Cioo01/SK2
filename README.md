@@ -10,13 +10,14 @@ g++ SKserver.cpp -o <nazwa_podana_przez_uzytkownika> -pthread
 client:
 gcc SKclient.c -o <nazwa_podana_przez_uzytkownika>
 
-# Uruchamianie
+# Uruchamianie serwera
 
-server:
 ./<nazwa_pliku_serwera>
 
-Aby uruchomić clienta należy dwa argumenty w następującej kolejności: 1. IP 2. Port do którego się łączy.
-
-client:                  1   2
+# Uruchamianie klienta
 ./<nazwa_pliku_clienta> IP PORT
+
+należy podać jako pierwszy argument IP, jako drugi port do którego się łączy client
+
+
 
