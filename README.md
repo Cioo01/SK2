@@ -1,4 +1,4 @@
-# Sieci Komputerowe 2 - Connect Four
+# Sieci Komputerowe 2 - Connect Four. Jakub Ciulęba 148103
 
 Program pozwala użytkownikom zagrać w grę connect four, w której użytkownik wygrywa jeśli 4 jego "pionki" będą ułożone pod rząd w pionie, poziomie lub skosie. Wielowątkowy serwer umożliwia wiele równoległych par rozgrywek, obsługuje rozłączenie graczy, a także zły input od gracza, np. w postaci znaku lub zbyt małej/dużej wartości kolumny.
 
