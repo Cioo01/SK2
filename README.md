@@ -2,6 +2,10 @@
 
 Program pozwala użytkownikom zagrać w grę connect four, w której użytkownik wygrywa jeśli 4 jego "pionki" będą ułożone pod rząd w pionie, poziomie lub skosie. Wielowątkowy serwer umożliwia wiele równoległych par rozgrywek, obsługuje rozłączenie graczy, a także zły input od gracza, np. w postaci znaku lub zbyt małej/dużej wartości kolumny.
 
+# Jak zagrać
+
+Aby zagrać w connect four należy podać numer kolumny z przedziału 1-7. Aplikacja automatycznie umieści krążek we właściwym rzędzie.
+
 #Kompilacja
 
 server:
