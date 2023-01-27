@@ -6,7 +6,7 @@ Program pozwala użytkownikom zagrać w grę connect four, w której użytkownik
 
 Aby zagrać w connect four należy podać numer kolumny z przedziału 1-7. Aplikacja automatycznie umieści krążek we właściwym rzędzie.
 
-#Kompilacja
+# Kompilacja
 
 server:
 g++ SKserver.cpp -o <nazwa_podana_przez_uzytkownika> -pthread
